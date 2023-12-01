@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:textColor="@color/black"
+    android:textColorHint="@color/black"
+    android:id="@+id/etInput"
+    android:layout_margin="5dp">
+</EditText>
